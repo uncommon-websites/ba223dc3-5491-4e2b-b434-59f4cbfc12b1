@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "What stage companies does AF Ventures invest in?", answer: "AF Ventures focuses on early-stage startups building on the Hyperliquid ecosystem. We typically invest in pre-seed and seed rounds, providing capital when it matters most to get your project off the ground." },
+    { question: "What makes AF Ventures different from other investors?", answer: "We combine deep expertise in the Hyperliquid ecosystem with hands-on support. Beyond capital, we provide strategic guidance, network access, and ongoing operational support to help founders succeed." },
+    { question: "How can I pitch my project to AF Ventures?", answer: "The best way to connect is to schedule a call through our website. We review all submissions and respond to founders whose projects align with our investment thesis in the Hyperliquid ecosystem." },
+    { question: "What do you look for in founders?", answer: "We look for exceptional founders with deep technical expertise, clear vision, and strong founder-market fit. We value builders who are committed to the long-term success of the Hyperliquid ecosystem." },
+    { question: "Do you lead rounds or co-invest?", answer: "We're flexible and can lead rounds or participate as co-investors depending on the opportunity. Our focus is on providing value to founders, whether that's leading the round or joining alongside other aligned investors." },
+    { question: "What kind of support do portfolio companies receive?", answer: "Portfolio companies receive strategic guidance, introductions to key ecosystem partners, go-to-market support, and access to our network of founders and investors. We work closely with each company to address their specific needs." },
+    { question: "How active are you post-investment?", answer: "We take a hands-on approach with our portfolio companies. We're available for regular check-ins, strategic discussions, and problem-solving. The level of engagement is tailored to each founder's needs and preferences." }
   ];
 
   let openIndex: number | null = null;
@@ -29,7 +29,7 @@
       <h2 class="font-serif text-4xl text-gray-900 mb-6">
         Frequently asked questions
       </h2>
-      <a href="/" class="text-sm text-gray-900 border-b border-gray-300 pb-0.5 hover:border-black transition-colors">See all support</a>
+      <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="text-sm text-gray-900 border-b border-gray-300 pb-0.5 hover:border-black transition-colors">Schedule a call</a>
     </div>
     
     <div class="lg:col-span-8">

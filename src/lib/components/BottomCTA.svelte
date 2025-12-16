@@ -1,12 +1,12 @@
 <section class="bg-[#f5f5f5] px-6 py-32 relative overflow-hidden">
   <div class="max-w-[1400px] mx-auto text-center relative z-10">
     <h2 class="font-serif text-4xl md:text-6xl text-gray-900 mb-12 leading-tight">
-      A decentralised economy demands<br/>
-      <span class="text-gray-400">a distributed community</span>
+      Building the future of<br/>
+      <span class="text-gray-400">decentralized finance on Hyperliquid</span>
     </h2>
-    <button class="bg-black text-white px-8 py-4 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
-      Get started as investor
-    </button>
+    <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="inline-block bg-black text-white px-8 py-4 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
+      Connect with AF Ventures
+    </a>
   </div>
   
   <!-- Subtle curved lines at bottom -->

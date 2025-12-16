@@ -1,4 +1,4 @@
-<section class="px-6 py-12 bg-[#f5f5f5]">
+<section id="contact" class="px-6 py-12 bg-[#f5f5f5]">
   <div class="max-w-[1400px] mx-auto relative rounded-sm overflow-hidden bg-[#0a2533] h-[500px] flex flex-col justify-center items-center text-center px-6">
     
     <!-- Background Image & Overlay -->
@@ -19,19 +19,19 @@
     <div class="relative z-10 max-w-2xl">
       <div class="absolute top-[-80px] left-0 flex items-center gap-2 text-white/60 text-[10px] tracking-[0.2em] font-medium uppercase">
         <div class="w-[2px] h-3 bg-white/60"></div>
-        For Founders
+        Building Together
       </div>
 
       <h2 class="font-serif text-3xl md:text-5xl text-white mb-6 leading-tight">
-        Giving projects another option for their cap table
+        Partner with aligned investors who understand your vision
       </h2>
       <p class="text-gray-400 text-lg mb-10 leading-relaxed">
-        Echo helps you raise from people who believe in what you're building — whether it's through our private investor groups or directly from your own community.
+        AF Ventures is led by Smartest Money, bringing deep expertise in the Hyperliquid ecosystem. We're here to support founders with capital, connections, and strategic guidance for the long term.
       </p>
       
-      <button class="border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
-        See Echo for founders
-      </button>
+      <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="inline-block border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
+        Schedule a call
+      </a>
     </div>
   </div>
 </section>

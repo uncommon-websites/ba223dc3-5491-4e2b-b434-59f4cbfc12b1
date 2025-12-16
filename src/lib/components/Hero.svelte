@@ -3,27 +3,27 @@
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-16">
       <div class="lg:col-span-7">
         <h1 class="font-serif text-5xl md:text-6xl lg:text-[64px] leading-[1.1] tracking-tight text-gray-900">
-          Early—stage investing for experienced crypto investors
+          Investing early in the Hyperliquid Ecosystem
         </h1>
       </div>
       <div class="lg:col-span-5 flex flex-col justify-between">
         <p class="text-gray-500 text-lg max-w-md leading-relaxed">
-          Join private funding rounds for new startups or token projects alongside professional investing communities.
+          AF Ventures backs exceptional founders building the future of decentralized finance on Hyperliquid, providing capital, strategic guidance, and network access.
         </p>
       </div>
     </div>
 
     <div class="flex flex-wrap items-center justify-between gap-4 mb-8 border-t border-gray-200 pt-6">
       <div class="flex items-center gap-4">
-        <button class="bg-black text-white px-6 py-3 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
-          Get started
-        </button>
-        <span class="text-xs text-gray-500 max-w-[120px] leading-tight">
-          Available for qualified investors only
+        <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="bg-black text-white px-6 py-3 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
+          Connect with us
+        </a>
+        <span class="text-xs text-gray-500 max-w-[140px] leading-tight">
+          Building the future of Hyperliquid
         </span>
       </div>
       <div class="text-[10px] text-gray-400 uppercase tracking-wider">
-        EST BLOCK 18921579
+        Hyperliquid Ecosystem
       </div>
     </div>
 
@@ -48,7 +48,7 @@
       <div class="absolute inset-0 flex items-center justify-center">
         <div class="flex items-center gap-2 text-white/80 text-[10px] tracking-[0.2em] font-medium uppercase">
           <div class="w-[2px] h-3 bg-white/80"></div>
-          Be Early
+          Strategic Capital
         </div>
       </div>
     </div>
