@@ -4,8 +4,8 @@
       Building the future of<br/>
       <span class="text-gray-400">decentralized finance on Hyperliquid</span>
     </h2>
-    <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="inline-block bg-black text-white px-8 py-4 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
-      Connect with AF Ventures
+    <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="inline-block bg-black text-white px-8 py-4 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
+      Get in touch
     </a>
   </div>
   

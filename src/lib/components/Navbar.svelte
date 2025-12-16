@@ -16,6 +16,6 @@
   </div>
 
   <div class="flex items-center gap-6">
-    <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="bg-black text-white px-5 py-2 rounded text-xs font-medium hover:bg-gray-800 transition-colors">Schedule a call</a>
+    <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="bg-black text-white px-5 py-2 rounded text-xs font-medium hover:bg-gray-800 transition-colors">Get in touch</a>
   </div>
 </nav>

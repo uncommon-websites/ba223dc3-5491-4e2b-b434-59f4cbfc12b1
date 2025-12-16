@@ -29,8 +29,8 @@
         AF Ventures is led by Smartest Money, bringing deep expertise in the Hyperliquid ecosystem. We're here to support founders with capital, connections, and strategic guidance for the long term.
       </p>
       
-      <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="inline-block border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
-        Schedule a call
+      <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="inline-block border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
+        Get in touch
       </a>
     </div>
   </div>

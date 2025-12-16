@@ -15,8 +15,8 @@
 
     <div class="flex flex-wrap items-center justify-between gap-4 mb-8 border-t border-gray-200 pt-6">
       <div class="flex items-center gap-4">
-        <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="bg-black text-white px-6 py-3 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
-          Connect with us
+        <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="bg-black text-white px-6 py-3 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
+          Get in touch
         </a>
         <span class="text-xs text-gray-500 max-w-[140px] leading-tight">
           Building the future of Hyperliquid

@@ -23,7 +23,7 @@
 
       <!-- Col 4 (Contact) -->
       <div class="flex flex-col gap-4 items-start md:items-end">
-        <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="font-medium border-b border-white pb-0.5 hover:opacity-80">Schedule a call</a>
+        <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="font-medium border-b border-white pb-0.5 hover:opacity-80">Get in touch</a>
       </div>
     </div>
 
