@@ -6,7 +6,6 @@
       </svg>
       <div class="flex flex-col">
         <span class="font-bold text-base tracking-wide">AF VENTURES</span>
-        <span class="text-[10px] text-gray-500 -mt-0.5">Hyperliquid Ecosystem</span>
       </div>
     </div>
   </div>
