@@ -11,7 +11,7 @@
       <!-- Col 2 -->
       <div class="flex flex-col gap-4">
         <h4 class="text-gray-500 mb-2">Connect —</h4>
-        <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="hover:text-gray-300">Schedule a call</a>
+        <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="hover:text-gray-300">Get in touch</a>
         <a href="#contact" class="hover:text-gray-300">Contact</a>
       </div>
 

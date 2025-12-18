@@ -29,7 +29,7 @@
       <h2 class="font-serif text-4xl text-gray-900 mb-6">
         Frequently asked questions
       </h2>
-      <a href="https://cal.com/team/yield-ventures" target="_blank" rel="noopener noreferrer" class="text-sm text-gray-900 border-b border-gray-300 pb-0.5 hover:border-black transition-colors">Get in touch</a>
+      <a href="https://forms.gle/CaouXnwix5AWgmqy5" target="_blank" rel="noopener noreferrer" class="text-sm text-gray-900 border-b border-gray-300 pb-0.5 hover:border-black transition-colors">Get in touch</a>
     </div>
     
     <div class="lg:col-span-8">
